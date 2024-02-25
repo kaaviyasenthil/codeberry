@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "name": "Web 101",
+    "description": "The Web is the common name for the World Wide Web, a subset of the Internet consisting of the pages that can be accessed by a Web browser.",
+    "image": "web.svg",
+    "slug": "web"
+  },
+  {
+    "id": 1,
+    "name": "HTML",
+    "description": "HTML is the foundation of all web pages. It defines the meaning and structure of web content. It is the beginning of everything you need to know to create engaging web pages.",
+    "image": "html.svg",
+    "slug": "html"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "description": "CSS is a stylesheet language used to describe the presentation of a document written in HTML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.",
+    "image": "css.svg",
+    "slug": "css"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "description": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages.",
+    "image": "js.svg",
+    "slug": "js"
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called Components.",
+    "image": "react.svg",
+    "slug": "react"
+  },
+
+  {
+    "id": 5,
+    "name": "Git & GitHub",
+    "description": "Git is a free and open source distributed version control system. GitHub is a code hosting platform for version control and collaboration.",
+    "image": "git.svg",
+    "slug": "git"
+  },
+
+  {
+    "id": 6,
+    "name": "Python",
+    "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.",
+    "image": "python.svg",
+    "slug": "python"
+  },
+  {
+    "id": 7,
+    "name": "Data Structures",
+    "description": "Data structures are data organization, management, and storage formats that are usually chosen for efficient access to data.",
+    "image": "binarytree.webp",
+    "slug": "datastructures"
+  },
+
+  {
+    "id": 8,
+    "name": "Questions",
+    "description": "Popular Interview Questions",
+    "image" : "faq.png",
+    "slug" : "questions"
+
+  },
+
+  {
+    "id": 9,
+    "name": "Tips",
+    "description": "Behavioral and General Interview Tips",
+    "image" : "tips.png",
+    "slug" : "tips"
+
+  }
+
+
+]
